@@ -1,0 +1,9 @@
+{
+  "id": "stock-ticker-wrapper",
+  "name": "Stock Ticker Wrapper",
+  "version": "1.0.3",
+  "minAppVersion": "1.5.0",
+  "description": "Auto wrap stock tickers, show hover info, and auto-create company pages",
+  "author": "RockyZhao",
+  "isDesktopOnly": false
+}
