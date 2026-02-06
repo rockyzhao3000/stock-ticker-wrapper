@@ -170,7 +170,7 @@
 ### 手动安装（推荐）
 
 1. 克隆或下载本仓库
-2. 将整个目录复制到：
+2. 将所有文件复制到：
 
 ```
 <你的 Obsidian Vault>/.obsidian/plugins/stock-ticker-wrapper/
