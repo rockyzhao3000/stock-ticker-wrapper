@@ -1,4 +1,5 @@
 # Obsidian Stock Ticker Wrapper
+[ENGLISH README](README.en.md)
 
 > **This plugin is opinionated.**
 
